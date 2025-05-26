@@ -31,3 +31,35 @@ There will be four buzzer boxes and one main box. Each buzzer box will represent
 * Designing the enclosures
 
 **Total time spent: 4h**
+
+
+## 05-25-2025: Circuit Design & BOM 
+### Circuit Design (Changes) 
+* Implemented 9V power source (stepped down to 5V) and 5V USB-C input, controlled by a SPDT switch
+* Added MAX98357A amp, 2 speakers and a micro SD card module (so that the buzzer can actually "buzz" when a player buzzes in)
+
+![image](https://github.com/user-attachments/assets/8b03c6c4-4ca9-46d7-a5f0-7e7be569c1c8)
+
+
+### BOM (Unfinished) 
+| Item                                       | Purpose    | Source | Price |
+|--------------------------------------------|------------|--------|-------|
+| 5x ESP32 (38 Pin) Dev Board                | Controller |        |       |
+| 16x2 LCD with I2C Module                   | Output     |        |       |
+| Speakers                                   | Output     |        |       |
+| 17x Push Buttons                           | Input      |        |       |
+| 16x Charger Wires (Any work)               | Input      |        |       |
+| Micro SD Card Module                       | Input      |        |       |  
+| 5x 9V Battery                              | Power      |        |       |
+| 5x 9V Battery Connector                    | Power      |        |       |
+| 5x DC - DC Buck Converter                  | Power      |        |       |
+| 5x 3 Way (SPDT) Switch                     | Switch     |        |       |
+| 4x Buzzer Box PCB                          | PCB        |        |       |
+| 1x Main Box PCB                            | PCB        |        |       |
+
+### Things Todo
+* Designing the 2 PCBS on KiCAD
+* Making the enclosures
+* Coding the main and buzzer boxes
+
+**Total time spent: 2.5h**
