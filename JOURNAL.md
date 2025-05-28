@@ -63,3 +63,13 @@ There will be four buzzer boxes and one main box. Each buzzer box will represent
 * Coding the main and buzzer boxes
 
 **Total time spent: 2.5h**
+
+## 05-27-2025: Buzzer Box PCB 
+### KiCAD
+* Learned how to use KiCAD for the first time and created the PCB for the buzzer box
+![image](https://github.com/user-attachments/assets/8a144d44-c1fa-4a74-a6e0-8566e701df20)
+
+**Total time spent: 2h**
+
+
+
