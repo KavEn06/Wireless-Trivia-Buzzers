@@ -72,4 +72,19 @@ There will be four buzzer boxes and one main box. Each buzzer box will represent
 **Total time spent: 2h**
 
 
+## 06-04-2025: More Circuit Design 
+### Main Buzzer PCB
+- Finished the main buzzer PCB and made sure that the SD module, MAX98357A, and DC-DC buck converter can all fit in the same footprint as the PCB (so it doesn't take up any extra room in the box)
+- I didn't bother with silkscreen art for the main box, as both sides have markings that show where the other boards connect to
+- The normal buzzer PCBs didn't get silkscreen because I was just too dead to learn it after spending 2 hours trying to figure my way through KiCAD 💀💀💀
+- On a separate note, this PCB, I learned how to make custom symbols and footprints 
+![image](https://github.com/user-attachments/assets/e3c7e530-1372-4cdb-bb72-d670ad8c960f)
+(The connectors for the SD card module are on the back of the board on the same side that the 9V battery is going to be on)
 
+### Things Todo
+- I have to make 2 simple boxes to house the components for both types of boxes
+- I have already started on some basic ESP-NOW code to get various boxes working between each other, but I still have to implement the actual buzzer rules
+- For the code for the main box, I have to add code to read files from the SD card and play it through the speakers
+- Then I can submit my application!!!!!! 
+
+**Total time spent: 2h**
