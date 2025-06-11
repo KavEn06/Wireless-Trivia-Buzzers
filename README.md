@@ -1,6 +1,6 @@
 # Wireless-Trivia-Buzzers
 ### What is it?
-There will be four buzzer boxes and one main box. Each buzzer box will represent a team (Teams A, B, C, and D) and will have four buttons—one for each player. The main box will house a screen that allows the host to see which player buzzed in first and will also include a reset button to clear all buzzes. For the time being, I plan to include two modes. The first mode allows only one player per team to buzz in—any player from the team can buzz, but only the first buzz from that team will register. The second mode is a free-for-all, where all 16 players can buzz in individually, regardless of their team.
+There will be four buzzer boxes and one main box. Each buzzer box will represent a team (Teams A, B, C, and D) and will have four buttons, one for each player. The main box will house a screen that allows the host to see which player buzzed in first and will also include a reset button to clear all buzzes. For the time being, I plan to include two modes. The first mode allows only one player per team to buzz in, any player from the team can buzz, but only the first buzz from that team will register. The second mode is a free-for-all, where all 16 players can buzz in individually, regardless of their team.
 
 
 ### Backstory 
