@@ -6,6 +6,8 @@ created_at: "2025-05-24"
 ---
 
 # Buzzer Creation Journal 
+## Total Time Spent: 15.5 Hours
+
 ## 05-24-2025: Planning 
 ### Backstory (kinda)
 Basically this idea came to me while me and a couple of friends were practicing for a trivia competition that my school's Classics club hosts semi-annually (with other neighboring schools). I realised that many other schools didn't have the funds to buy the "official" buzzers that all the other schools use, which means that they just end up using some horrible online version, which are very dependent on how good your wifi is. Moreover, these buzzers we're SO HEAVY and annoying to set up that half the time my friends and I didn't even bother practicing because we were too lazy to set up the buzzers and get an actual competition environment going. 
