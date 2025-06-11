@@ -88,3 +88,17 @@ There will be four buzzer boxes and one main box. Each buzzer box will represent
 - Then I can submit my application!!!!!! 
 
 **Total time spent: 2h**
+
+## 06-10-2025: SUBMITTING AN APPLICATION SPEEDRUNNNNNN!!!!!! 
+### CADing up the Boxes 
+I used TinkerCAD to make the boxes for the buzzers. I could have done it on something like OnShape, but the design was just a simple box, and there were no special fillets or anything of that sort, so I decided to do it in TinkerCAD (and it just required less critical thinking). 
+List of what I made: 
+- Little handle for the buzzer button
+- For the normal buzzer boxes, it's just a simple box with 4 holes to allow the buzzer wires to escape and a usb c input, and a 3-way switch
+- For the main buzzer box, it has a mount for the 16x2 LCD, a hole for a reset button and a usb c input, and a 3-way switch
+![image](https://github.com/user-attachments/assets/e28ae017-b513-4b40-aab7-b06232eab597)
+
+### Programming the Boxes
+Since I already have the ESP32's on me, I was able to do most of the coding and semi verify that they work. For the buzzer box code, it was quite simple, as it just sends which buzzer has buzzed to the main box and lights up the corresponding light on the box itself. The main box was slightly more complex as it needed to accept the information that was sent from 4 buzzer boxes and display it on the LCD. Furthermore, the main box also needs to open the .mp3 file from the sd card and play the "buzz" sound everytime someone buzzes in. I honestly don't know if the whole audio section of the code will work because I have none of the components on hand, but I have looked through countless forums and most people have done audio on an ESP32 in a pretty similar way, so I have hope!!!!!
+
+**Total time spent: 5h**
