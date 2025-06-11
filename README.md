@@ -30,23 +30,23 @@ Main Box
 ![image](https://github.com/user-attachments/assets/e3c7e530-1372-4cdb-bb72-d670ad8c960f)
 
 ## BOM 
-| Item                          | Purpose     | Source                                                                 | Price    | Inventory         |
-|-------------------------------|-------------|------------------------------------------------------------------------|----------|--------------------|
-| 5x ESP32 (38 Pin) Dev Board   | Controller  | [Link](https://www.aliexpress.us/item/3256806817804532.html)           | $32.10   | Owned              |
-| 16x2 LCD with I2C Module      | Output      | [Link](https://www.aliexpress.us/item/3256806005226720.html)           | $3.47    | Owned              |
-| Speakers                      | Output      | [Link](https://www.aliexpress.us/item/3256806149654656.html)           | $2.99    | Owned              |
-| 5 LEDS                        | Output      | [Link](https://www.aliexpress.us/item/2251832691865341.html)           | $2.53    | Owned              |
-| MAX98357A                     | Output      | [Link](https://www.aliexpress.us/item/3256806882501011.html)           | $2.53    | Owned              |
-| 17x Push Buttons              | Input       | [Link](https://www.aliexpress.us/item/4000097252595.html)              | $10.25   | Owned              |
-| 16x Charger Wires (Any work) | Input       | [Link](https://www.aliexpress.us/item/3256806607225844.html)           | $14.43   | Owned              |
-| Micro SD Card Module          | Input       | [Link](https://www.aliexpress.us/item/3256806271288305.html)           | $1.28    | Highway Provided   |
-| 5x USB-C Port                 | Input       | [Link](https://www.aliexpress.us/item/3256805808963508.html)           | $4.11    | Owned              |
-| 5x 9V Battery                 | Power       | [Link](https://www.amazon.com/Amazon-Basics-Performance-Batteries/dp/B00MH4QM1S) | $12.69   | Highway Provided   |
-| 5x 9V Battery Connector       | Power       | [Link](https://www.aliexpress.us/item/3256803502287504.html)           | $2.21    | Owned              |
-| 5x DC - DC Buck Converter     | Power       | [Link](https://www.aliexpress.us/item/3256807145249789.html)           | $4.65    | Highway Provided   |
-| 5x 3 Way (SPDT) Switch        | Switch      | [Link](https://www.aliexpress.us/item/3256806160134969.html)           | $3.29    | Highway Provided   |
-| 2.54mm Headders               | Connector   | [Link](https://www.aliexpress.us/item/3256805470972473.html)           | $3.12    | Highway Provided   |
-| Buzzer Box PCB                | PCB         | JLCPCB                                                                 | $15.00   | Highway Provided   |
-| Main Box PCB                  | PCB         | JLCPCB                                                                 | $15.00   | Highway Provided   |
-| **Total:**                    |             |                                                                        | **$129.65** |                    |
-| **Total (Highway Provided):**|             |                                                                        | **$55.03**  |                    |
+| Item                          | Purpose  | Source | Price  | Inventory          |
+|-------------------------------|----------|--------|--------|--------------------|
+| 5x ESP32 (38 Pin) Dev Board   | Controller | [Link](https://www.aliexpress.us/item/3256806817804530.html) | $32.10 | Owned              |
+| 16x2 LCD with I2C Module      | Output   | [Link](https://www.aliexpress.us/item/3256806005226729.html) | $3.47  | Owned              |
+| Speakers                      | Output   | [Link](https://www.aliexpress.us/item/3256806149654655.html) | $2.99  | Owned              |
+| 5 LEDS                        | Output   | [Link](https://www.aliexpress.us/item/2251832691865349.html) | $2.53  | Owned              |
+| MAX98357A                     | Output   | [Link](https://www.aliexpress.us/item/3256806882501015.html) | $2.53  | Owned              |
+| 17x Push Buttons              | Input    | [Link](https://www.aliexpress.us/item/4000097252595.html)    | $10.25 | Owned              |
+| 16x Charger Wires (Any work)  | Input    | [Link](https://www.aliexpress.us/item/3256806607225846.html) | $14.43 | Owned              |
+| Micro SD Card Module          | Input    | [Link](https://www.aliexpress.us/item/3256806271288304.html) | $1.28  | Highway Provided   |
+| 5x USB-C Port                 | Input    | [Link](https://www.aliexpress.us/item/3256805808963500.html) | $4.11  | Owned              |
+| 5x 9V Battery                 | Power    | [Link](https://www.amazon.com/dp/B00MH4QM1S)                 | $12.69 | Highway Provided   |
+| 5x 9V Battery Connector       | Power    | [Link](https://lcsc.com/product-detail/Battery-Holders-Clips-Contacts_Q-J-C70374_C70374.html) | $0.51  | Owned              |
+| 5x DC - DC Buck Converter     | Power    | [Link](https://www.aliexpress.us/item/3256807145249780.html) | $4.65  | Highway Provided   |
+| 5x 3 Way (SPDT) Switch        | Switch   | [Link](https://lcsc.com/product-detail/slide-switches_usakro-ss-12f15-g6_C698214.html) | $0.41  | Highway Provided   |
+| 2.54mm Headers                | Connector| [Link](https://lcsc.com/product-detail/Female-Headers_Megastar-ZX-PM2-54-1-15PY_C7499333.html) | $0.84  | Highway Provided   |
+| Buzzer Box PCB (w/ Shipping) | PCB      | JLCPCB | $10.00 | Highway Provided   |
+| Main Box PCB (w/ Shipping)   | PCB      | JLCPCB | $5.00  | Highway Provided   |
+|                               |          | Total: | $107.79|                    |
+|                               |          | Total (Highway Provided): | $34.87 |         |
