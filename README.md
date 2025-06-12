@@ -35,7 +35,7 @@ Main Box
 | 5x ESP32 (38 Pin) Dev Board   | Controller | [Link](https://www.aliexpress.us/item/3256806817804530.html) | $32.10 | Owned              |
 | 16x2 LCD with I2C Module      | Output   | [Link](https://www.aliexpress.us/item/3256806005226729.html) | $3.47  | Owned              |
 | Speakers                      | Output   | [Link](https://www.aliexpress.us/item/3256806149654655.html) | $2.99  | Owned              |
-| 5 LEDS                        | Output   | [Link](https://www.aliexpress.us/item/2251832691865349.html) | $2.53  | Owned              |
+| 5 LEDS                        | Output   | [Link](https://lcsc.com/product-detail/LED-Indication-Discrete_Everlight-Elec-204-10SURD-S530-A3_C99772.html) | $0.50  | Owned              |
 | MAX98357A                     | Output   | [Link](https://www.aliexpress.us/item/3256806882501015.html) | $2.53  | Owned              |
 | 17x Push Buttons              | Input    | [Link](https://www.aliexpress.us/item/4000097252595.html)    | $10.25 | Owned              |
 | 16x Charger Wires (Any work)  | Input    | [Link](https://www.aliexpress.us/item/3256806607225846.html) | $14.43 | Owned              |
@@ -48,5 +48,5 @@ Main Box
 | 2.54mm Headers                | Connector| [Link](https://lcsc.com/product-detail/Female-Headers_Megastar-ZX-PM2-54-1-15PY_C7499333.html) | $0.84  | Highway Provided   |
 | Buzzer Box PCB (w/ Shipping) | PCB      | JLCPCB | $10.00 | Highway Provided   |
 | Main Box PCB (w/ Shipping)   | PCB      | JLCPCB | $5.00  | Highway Provided   |
-|                               |          | Total: | $107.79|                    |
+|                               |          | Total: | $105.76|                    |
 |                               |          | Total (Highway Provided): | $34.87 |         |
